@@ -14,8 +14,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: cradio_left
+    shield: xjam_left
   - board: seeeduino_xiao_ble
-    shield: cradio_right
-  - board: seeeduino_xiao_ble
-    shield: hummingbird
+    shield: xjam_right
