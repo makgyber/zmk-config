@@ -1,0 +1,11 @@
+file_format: "1"
+id: xjam
+name: XJam
+type: shield
+url: https://github.com/makgyber/zmk-config
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - xjam_left
+  - xjam_right
